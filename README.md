@@ -14,11 +14,5 @@ The number of people who are aware and genuinely care is far fewer than it shoul
 <img align="Left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />     
 <br />   
    
-
-#
-### To Whomever It May Concern
-
-![OnGalaxySteroids's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnGalaxySteroids&show_icons=true&theme=nord)
-
 #
 ***Kind Regards***
